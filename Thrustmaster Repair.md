@@ -47,7 +47,7 @@ Cleaning or replacing the X/Y axis potentiometers:
 - Confirm if you are having this problem by using the utility control panel as described above.
 - Unplug the joystick from the console or computer.
 - Open bottom panel of the joystick.
-- When disassembling, pay careful attention to where all the wires go, so that you remember when reassembling. In particular, watch the way that the throttle cord enters the unit under the rectangular retainer piece which holds it.
+- When disassembling, pay careful attention to where all the wires go, so that you remember them when reassembling. In particular, watch the way that the throttle cord enters the unit under the rectangular retainer piece which holds it.
 - NOTE: there is a hidden screw under one of the rubber foot pads, inside the rectangular retainer piece, next to the long black screw where the throttle cord enters the unit. It is marked in the following illustration.
 
 ![](images/Joystick%20Bottom%20Panel%20-%20Removal%20Screws.jpg)
