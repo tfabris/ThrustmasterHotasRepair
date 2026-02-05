@@ -119,7 +119,7 @@ If replacing:
 
 Buttons:
 
-- If the buttons need to be worked on (based on testing with the Windows control panel app), now would be the time to do it, if you're up to the task. 
+- If the buttons need to be worked on (based on testing with the control panel utility), now would be the time to do it, if you're up to the task. 
 - I don't have detailed instructions for working on the buttons, unfortunately. You have to be good with a soldering iron and good with the mechanical side of electronics work to be successful here. This is the kind of thing where you already know you're good at this sort of thing, or you're not.
 - One option would be to source new buttons and solder them in place. See footnotes below for part information.
 - For the ones that I was unable to source, I was able to do the following. It required magnification and extreme care, and I recommend against this:
@@ -148,8 +148,8 @@ Reassembly:
 
 ![](images/Handle%20Reassembly%20-%20Upper.jpg)
 
-- With the two halves gently snapped into place, but before you screw things back together, test it. Test the following in the PC control panel app while holding the two halves together: Joystick twist feature, joystick twist-lock feature, the main trigger, all buttons (don't forget R3 button on the upper corner), and check that the palm rest plate and thumb button plate are seated correctly.
-- If all seems well, put the screws back in and retest all buttons and functions with the PC control panel app.
+- With the two halves gently snapped into place, but before you screw things back together, test it. Test the following in the control panel utility while holding the two halves together: Joystick twist feature, joystick twist-lock feature, the main trigger, all buttons (don't forget R3 button on the upper corner), and check that the palm rest plate and thumb button plate are seated correctly.
+- If all seems well, put the screws back in and retest all buttons and functions with the control panel utility.
 
 ------------------------------------------------------------------------------
 
