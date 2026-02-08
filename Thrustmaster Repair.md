@@ -57,7 +57,7 @@ Cleaning or replacing the X/Y axis potentiometers:
 ![](images/Lift%20Joystick%20Base%20and%20pull%20out%20potentiometer.jpg)
 
 If cleaning:
-- Squirt isopropyl alcohol, or [electronics contact cleaner](https://www.amazon.com/s?k=electronics+potentiometer+cleaner), into both of the potentiometers from the back side, soak them pretty good, as shown in this illustration. I try to put some into the central and side openings with some squirting pressure to make sure it goes all the way around the circuit board and gets to the contacts:
+- Squirt isopropyl alcohol, or [electronics contact cleaner](https://www.amazon.com/s?k=electronics+potentiometer+cleaner), into both of the potentiometers from the back side, soak them pretty good. Use only isopropyl alcohol, or a cleaner which is specifically intended to clean electronic contacts, do not try to use oils or water or other materials, since those could ruin the device. I try to put some into the central and side openings with some squirting pressure to make sure it goes all the way around the circuit board and gets to the contacts:
 
 ![](images/Putting%20alcohol%20into%20the%20potentiometer.jpg)
 
@@ -109,7 +109,7 @@ Handle disassembly:
 - Note the bracket which holds the the potentiometer in place. Keep this in mind when you get to the reassembling part.
 
 If cleaning:
-- Clean the potentiometer by squirting isopropyl alcohol, or electronics contact cleaner, into its interior, using the same technique as the X/Y potentiometers above. Make sure to get it inside the potentiometer, past the circuit board, where it can do some good. Then move it through its full range of motion several times to fully sweep the contacts.
+- Clean the potentiometer by squirting isopropyl alcohol, or electronics contact cleaner, into its interior, using the same technique as the X/Y potentiometers above. Use only isopropyl alcohol, or a cleaner which is specifically intended to clean electronic contacts, do not try to use oils or water or other materials, since those could ruin the device. Make sure to get it inside the potentiometer, past the circuit board, where it can do some good. Then move it through its full range of motion several times to fully sweep the contacts.
 
 ![](images/Handle%20Interior.jpg)
 
@@ -123,7 +123,7 @@ Buttons:
 - I don't have detailed instructions for working on the buttons, unfortunately. You have to be good with a soldering iron and good with the mechanical side of electronics work to be successful here. This is the kind of thing where you already know you're good at this sort of thing, or you're not.
 - One option would be to source new buttons and solder them in place. See footnotes below for part information.
 - For the ones that I was unable to source, I was able to do the following. It required magnification and extreme care, and I recommend against this:
-  - Desolder and dismantle the troublesome button, clean its tiny interior parts with isopropyl, and reassemble it (a tiny careful amount of cyanoacrylate was needed to reassemble the button so that its casing held together yet the button still worked). I recommend against this procedure, unless you're used to doing this kind of very tiny and iffy hack.
+  - Desolder and dismantle the troublesome button, clean its tiny interior parts with isopropyl alcohol or electronics contact cleaner, and reassemble it (a tiny careful amount of cyanoacrylate was needed to reassemble the button so that its casing held together yet the button still worked). I recommend against this procedure, unless you're used to doing this kind of very tiny and iffy hack.
 
 Reassembly:
 
@@ -180,7 +180,7 @@ Throttle:
 - Clean or replace the potentiometer the same way as you did on the Joystick.
 
 If cleaning:
-- Clean the potentiometer by squirting isopropyl alcohol, or electronics contact cleaner, into its interior, using the same technique as the X/Y potentiometers above. Make sure to get it inside the potentiometer, past the circuit board, where it can do some good. Then move it through its full range of motion several times to fully sweep the contacts.
+- Clean the potentiometer by squirting isopropyl alcohol, or electronics contact cleaner, into its interior, using the same technique as the X/Y potentiometers above. Use only isopropyl alcohol, or a cleaner which is specifically intended to clean electronic contacts, do not try to use oils or water or other materials, since those could ruin the device. Make sure to get it inside the potentiometer, past the circuit board, where it can do some good. Then move it through its full range of motion several times to fully sweep the contacts.
 
 If replacing:
 - Same potentiometer as the joystick X/Y axes as described above. See footnote at the bottom of this document for the part number and specifications.
